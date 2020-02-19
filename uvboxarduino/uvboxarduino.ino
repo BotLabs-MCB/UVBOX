@@ -1,4 +1,3 @@
-
 int led1 = 2;
 int led2 = 3;
 int ledirt;
